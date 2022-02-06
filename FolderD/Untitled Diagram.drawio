@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T18:11:46.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="gvtRJpv6U2wKdYyrKnZT" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-06T18:18:14.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="vlYlmJjORm5MzxF645SZ" version="16.5.3" type="github">
   <diagram id="P7JxlWmNR0VaaNSP8-FL" name="Page-1">
     <mxGraphModel dx="782" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-2" value="Адміністратор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="725" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="720" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="AQALUr2rENBYNeaL4UF1-3" target="AQALUr2rENBYNeaL4UF1-1">
           <mxGeometry relative="1" as="geometry">
@@ -74,7 +74,7 @@
             <mxPoint x="330" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AQALUr2rENBYNeaL4UF1-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;" edge="1" parent="1" target="AQALUr2rENBYNeaL4UF1-31">
+        <mxCell id="AQALUr2rENBYNeaL4UF1-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="AQALUr2rENBYNeaL4UF1-6" target="AQALUr2rENBYNeaL4UF1-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="300" as="sourcePoint" />
           </mxGeometry>
@@ -86,9 +86,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-19" value="Зробити замовлення" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="480" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AQALUr2rENBYNeaL4UF1-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=open;endFill=0;dashed=1;entryX=0.383;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AQALUr2rENBYNeaL4UF1-20" target="AQALUr2rENBYNeaL4UF1-30">
+        <mxCell id="AQALUr2rENBYNeaL4UF1-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;entryX=0.383;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AQALUr2rENBYNeaL4UF1-20" target="AQALUr2rENBYNeaL4UF1-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="120" as="targetPoint" />
           </mxGeometry>
@@ -99,16 +99,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-20" value="Зареєструватись" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="45" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-28" value="&lt;br&gt;&lt;br&gt;Розмістити товар" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-30" value="Зареєструватись як приватна особа - постачальник" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="45" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-31" value="Зареєструватись як заклад-постачальник" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="130" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=open;endFill=0;" edge="1" parent="1" source="AQALUr2rENBYNeaL4UF1-1" target="AQALUr2rENBYNeaL4UF1-32">
           <mxGeometry relative="1" as="geometry" />
@@ -120,13 +120,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-33" value="Змінити статус замовлення" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="747" width="120" height="80" as="geometry" />
+          <mxGeometry x="480" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="AQALUr2rENBYNeaL4UF1-38" target="AQALUr2rENBYNeaL4UF1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AQALUr2rENBYNeaL4UF1-38" value="Переглянути замовлення" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="480" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AQALUr2rENBYNeaL4UF1-46" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;endArrow=open;endFill=0;" edge="1" parent="1" source="AQALUr2rENBYNeaL4UF1-45" target="AQALUr2rENBYNeaL4UF1-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQALUr2rENBYNeaL4UF1-45" value="Скасувати замовлення" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
