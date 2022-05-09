@@ -1,1 +1,330 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T12:13:22.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.1" etag="bzkOd9v2ZXupVJMMVH2J" type="github"><diagram id="wwY-4GpthgJ-uq0iMGtW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-09T14:48:04.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="TDwdV8juz5u3CM2uI8IB" version="18.0.2" type="github">
+  <diagram id="wwY-4GpthgJ-uq0iMGtW" name="Page-1">
+    <mxGraphModel dx="2089" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-1" target="jIKgLwLdZSsmDSTW-W0w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-1" value="Загальні збори" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-2" target="jIKgLwLdZSsmDSTW-W0w-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-2" value="Наглядова рада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-3" target="jIKgLwLdZSsmDSTW-W0w-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-3" value="Виконавчий директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-5" target="jIKgLwLdZSsmDSTW-W0w-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-5" target="jIKgLwLdZSsmDSTW-W0w-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-5" target="jIKgLwLdZSsmDSTW-W0w-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-5" value="Директор виробничого департаменту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-6" target="jIKgLwLdZSsmDSTW-W0w-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-6" value="Директор з виробництва" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-7" target="jIKgLwLdZSsmDSTW-W0w-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-7" value="Заступник директора виробничого департаменту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220.41176470588243" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-8" target="jIKgLwLdZSsmDSTW-W0w-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-8" value="Директор з маркетингу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-9" target="jIKgLwLdZSsmDSTW-W0w-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-9" value="Технічний директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-10" target="jIKgLwLdZSsmDSTW-W0w-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-10" value="Фінансовий директор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-12" target="jIKgLwLdZSsmDSTW-W0w-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-12" value="Директор служби якості" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-13" target="jIKgLwLdZSsmDSTW-W0w-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-13" value="Директор служби продажу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="429.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-14" value="Менеджер проектів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="509.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-15" value="Відділ головного механіка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-16" value="Відділ головного енергетика" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="349.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-18" value="Планово-економічний відділ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="349.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-19" value="Відділ дистрибуції та поставок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="349.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-20" value="Відділ стратегічного маркетингу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-21" target="jIKgLwLdZSsmDSTW-W0w-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-21" value="Директор ІТ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-500.0000000000002" y="349.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-22" value="Відділ ІТ-підтримки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-23" value="Відділ інформаційних технологій" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340.0000000000002" y="349.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-24" value="Відділ контролю якості" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jIKgLwLdZSsmDSTW-W0w-3" target="jIKgLwLdZSsmDSTW-W0w-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="320" as="sourcePoint" />
+            <mxPoint x="-420" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="190" as="sourcePoint" />
+            <mxPoint x="70" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="190" as="sourcePoint" />
+            <mxPoint x="70" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60.41176470588243" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="429.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-37" value="Менеджер організації виробництва" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-38" value="Виробничий цех" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="509.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-39" value="Відділ головного технолога" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340.0000000000002" y="429.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-40" value="Лабораторія контролю якості" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340.0000000000002" y="509.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-41" value="Відділ забезпечення якості" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-42" value="Склад контролю якості" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="429.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-43" value="Відділ бухгалтерського і податкового обліку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-46" value="Фінансовий відділ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="429.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-56" value="Відділ торгового маркетингу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="509.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-57" value="Відділ по роботі з клієнтами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="429.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-58" value="Відділ маркетингових досліджень&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="509.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-59" value="Керівник проектів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-60" value="Аналітичний відділ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="429.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-61" value="Відділ матеріально-технічного постачання" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="509.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-62" value="Склад сировини і матеріалів" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="589.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-63" value="Склад готової продукції" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-64" value="Менеджери з маркетингу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jIKgLwLdZSsmDSTW-W0w-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="669.6470588235295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-65" value="Відділ логістики" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-66" value="Ділянка автотранспорту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-88" value="Адміністративний відділ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-89" value="Господарський відділ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-90" value="Юридичний відділ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-91" value="Служба управління персоналом" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-92" value="Служба охорони праці" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-93" value="Служба безпеки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-94" value="Служба охорони та контролю стану довкілля" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-95" value="Відділ фармрозробок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-96" value="Відділ реєстрації та перереєстрації" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jIKgLwLdZSsmDSTW-W0w-98" value="Відділ фармаконагляду" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
