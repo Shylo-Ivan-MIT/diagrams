@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T13:35:29.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="Oy_RabCsS-nHL4-dfIGf" type="github"><diagram id="EP-uBbGpcZ63rwk2b_Wm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-10T19:24:38.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Z4zgHpIZVWOdoiSYrE7x" version="18.0.2" type="github">
+  <diagram id="EP-uBbGpcZ63rwk2b_Wm" name="Page-1">
+    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LVynTK72GNAO64dXb74h-1" value="Початок" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-2" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-3" value="Виникнення проблеми/Виявлення несправності" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-4" value="Дзвінок у відділ ІТ-підтримки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-5" value="Проблему &lt;br&gt;можна вирішити по телефону?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-7" value="Перенаправлення дзвінку до спеціаліста з ІТ-підтримки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-8" value="Проблему &lt;br&gt;вирішено?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-9" value="Передача задачі інженеру вищого рівня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-10" value="Виклик інженера до відповідного відділу підприємства" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-11" value="Реєстрація заяви про необхідність технічної підтримки у відділі" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
