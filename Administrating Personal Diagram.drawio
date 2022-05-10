@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T19:46:59.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="qVr759FdWQdjNBH1Dg8S" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T20:02:43.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="W9ZgP8ji3ni_LQ7sAeRq" version="18.0.2" type="github">
   <diagram id="EP-uBbGpcZ63rwk2b_Wm" name="Page-1">
     <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="930" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-29" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="1490" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-34" target="LVynTK72GNAO64dXb74h-29">
           <mxGeometry relative="1" as="geometry">
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-34" value="Зміна статусу заяви як &quot;виконано&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-42" target="LVynTK72GNAO64dXb74h-2">
           <mxGeometry relative="1" as="geometry" />
@@ -128,6 +128,39 @@
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-44" value="Впровадження необхідних заходів задля вирішення проблеми" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-52" value="Працівник підприємства" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="160" y="421" width="70" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-53" value="Менеджер відділу" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="320" y="421" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-54" value="Менеджер відділу ІТ-підтримки&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-55" value="Спеціаліст" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="800" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-56" value="Менеджер відділу ІТ-підтримки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="770" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-57" value="Менеджер відділу ІТ-підтримки&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-58" value="Менеджер відділу ІТ-підтримки&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-60" value="Менеджер відділу ІТ-підтримки&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="580" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-61" value="Інженер" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-62" value="Інженер" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="960" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-64" value="Менеджер відділу ІТ-підтримки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="610" y="580" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
