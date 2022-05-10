@@ -1,38 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T19:24:38.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Z4zgHpIZVWOdoiSYrE7x" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-10T19:32:50.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="LnHt3Uf6xPXg0rtSsnB3" version="18.0.2" type="github">
   <diagram id="EP-uBbGpcZ63rwk2b_Wm" name="Page-1">
     <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LVynTK72GNAO64dXb74h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-1" target="LVynTK72GNAO64dXb74h-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-1" value="Початок" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="430" width="90" height="90" as="geometry" />
+          <mxGeometry x="40" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-2" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="1280" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-3" target="LVynTK72GNAO64dXb74h-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-3" value="Виникнення проблеми/Виявлення несправності" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-4" target="LVynTK72GNAO64dXb74h-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630.0000000000002" y="479.57142857142867" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-4" value="Дзвінок у відділ ІТ-підтримки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-5" target="LVynTK72GNAO64dXb74h-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-5" target="LVynTK72GNAO64dXb74h-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-5" value="Проблему &lt;br&gt;можна вирішити по телефону?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="440" width="160" height="80" as="geometry" />
+          <mxGeometry x="480" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-7" target="LVynTK72GNAO64dXb74h-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-7" value="Перенаправлення дзвінку до спеціаліста з ІТ-підтримки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-8" target="LVynTK72GNAO64dXb74h-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="589.5714285714287" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-8" value="Проблему &lt;br&gt;вирішено?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="1000" y="550" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-9" value="Передача задачі інженеру вищого рівня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-10" target="LVynTK72GNAO64dXb74h-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-10" value="Виклик інженера до відповідного відділу підприємства" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-11" target="LVynTK72GNAO64dXb74h-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LVynTK72GNAO64dXb74h-11" value="Реєстрація заяви про необхідність технічної підтримки у відділі" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LVynTK72GNAO64dXb74h-17" target="LVynTK72GNAO64dXb74h-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-17" value="Консультація та допомога з вирішенням питання" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-20" value="Проблему &lt;br&gt;вирішено?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="690" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LVynTK72GNAO64dXb74h-23" value="Впровадження необхідних заходів задля вирішення проблеми" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
