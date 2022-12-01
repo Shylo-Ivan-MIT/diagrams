@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T02:42:19.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ug0mdbNFFKaKnOOiHtU2" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T04:39:13.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="u3KO9t_d_w12xw3WwWS-" version="20.5.3" type="github" pages="2">
   <diagram id="lVIIdfV5MRE-QJWzpAYG" name="Страница 1">
     <mxGraphModel dx="782" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -186,6 +186,83 @@
         </mxCell>
         <mxCell id="1lrYUgH6pKFeRBtL5PuC-62" value="&lt;b&gt;Так&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1470" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PeiHxRXoHH_oNTQQ0sDu" name="Страница 2">
+    <mxGraphModel dx="1609" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-1" target="L1zARpXLZUN9U2-5DdMv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-1" target="L1zARpXLZUN9U2-5DdMv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-1" target="L1zARpXLZUN9U2-5DdMv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-1" value="Проблеми з дисципліною" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-2" target="L1zARpXLZUN9U2-5DdMv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-2" target="L1zARpXLZUN9U2-5DdMv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-2" target="L1zARpXLZUN9U2-5DdMv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-2" value="Студент має проблеми під час навчально-виховного &lt;br&gt;процесу: визначення причини" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-3" target="L1zARpXLZUN9U2-5DdMv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-3" target="L1zARpXLZUN9U2-5DdMv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-3" value="Відсутність на заняттях" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-4" target="L1zARpXLZUN9U2-5DdMv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-4" target="L1zARpXLZUN9U2-5DdMv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-4" target="L1zARpXLZUN9U2-5DdMv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-4" value="Низька або понижена успішність" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-5" value="Нестабільний&lt;br&gt;психологічний стан" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-9" value="Трудова зайнятість" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1zARpXLZUN9U2-5DdMv-3" target="L1zARpXLZUN9U2-5DdMv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-10" value="Форс-мажорні обставини" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-11" value="Проблеми пов&#39;язані зі здоров&#39;ям" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-12" value="Низька мотивація" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-24" value="Упереджене оцінювання" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L1zARpXLZUN9U2-5DdMv-31" value="Упередження, порушення&lt;br&gt;толерантності" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
