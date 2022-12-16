@@ -1,1 +1,160 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T16:19:23.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="EJy-SUa6x2ehQrCNy71c" type="github"><diagram id="vajwmcKNCDclsmoSbCHI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-16T17:27:30.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="_PXuWO_262M28YOZ5dcn" type="github">
+  <diagram id="b6Qc7t4tP0_b6a30GGAW" name="Страница 1">
+    <mxGraphModel dx="1117" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-4" target="sCU0qEveUXH11QTa8-Xz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-1" value="Рекламний ролик" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-7" target="sCU0qEveUXH11QTa8-Xz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-2" value="Телепрограма" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-6" target="sCU0qEveUXH11QTa8-Xz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-3" value="Договір про показ реклами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-9" target="sCU0qEveUXH11QTa8-Xz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-9" value="Коефіцієнт вартості&amp;nbsp;&lt;br&gt;ефірного періоду" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-10" value="Ефірний період" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-12" target="sCU0qEveUXH11QTa8-Xz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-12" value="Ефірний час" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-13" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-13" value="Кількість показів&lt;br&gt;&amp;nbsp;на добу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-14" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-14" value="Дата підписання договору" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-15" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-15" value="Тривалість&amp;nbsp;&lt;br&gt;рекламного&lt;br&gt;ролика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-16" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-16" value="Група замовника" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-17" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-17" value="Дата завершення&lt;br&gt;&amp;nbsp;дії договору" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-18" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-18" value="Назва ролика&amp;nbsp;&lt;br&gt;у БД" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-7" value="Показ відбувається&amp;nbsp;&lt;br&gt;у періоді" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="510" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-2" target="sCU0qEveUXH11QTa8-Xz-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525.5319148936171" y="525" as="sourcePoint" />
+            <mxPoint x="674.4680851063829" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-4" value="Транслюється&lt;br&gt;одночасно/підчас" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="300" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-1" target="sCU0qEveUXH11QTa8-Xz-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="207.6740947075209" y="300" as="sourcePoint" />
+            <mxPoint x="479.98" y="550.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-35" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-35" value="Замовник" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-38" target="sCU0qEveUXH11QTa8-Xz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-38" value="Дані про час показу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-39" target="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-39" value="Персональний&amp;nbsp;&lt;br&gt;коефіцієнт замовника" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-6" value="Містить інформацію&lt;br&gt;&amp;nbsp;про відеоролик" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="90" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-42" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.75" y="130" as="sourcePoint" />
+            <mxPoint x="515" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-44" target="sCU0qEveUXH11QTa8-Xz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-44" value="Підрахована вартість показу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-47" target="sCU0qEveUXH11QTa8-Xz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-47" value="Коефіцієнт вартості трансляції реклами" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-48" target="sCU0qEveUXH11QTa8-Xz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-48" value="Дані про час показу" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-49" target="sCU0qEveUXH11QTa8-Xz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-49" value="Назва" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-51" target="sCU0qEveUXH11QTa8-Xz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-51" value="Дозволена кількість&lt;br&gt;показів реклами" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sCU0qEveUXH11QTa8-Xz-52" target="sCU0qEveUXH11QTa8-Xz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCU0qEveUXH11QTa8-Xz-52" value="Тривалість&lt;br&gt;&amp;nbsp;програми" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
