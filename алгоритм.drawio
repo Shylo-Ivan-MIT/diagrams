@@ -1,88 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T20:32:37.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E8JOmgOMzprz1E3v5Zi_" version="21.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-24T14:31:09.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mkEpFy_2C1XXEb_ZgJSg" version="21.5.0" type="github" pages="2">
   <diagram id="s-qsPdU9FnbwddISXx5q" name="робота програми">
-    <mxGraphModel dx="934" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-1" target="J92iBG6pYE3TJsRAhOx6-11">
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-1" target="J92iBG6pYE3TJsRAhOx6-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-1" value="Створення нових екземплярів вершин" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="720" width="160" height="40" as="geometry" />
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-1" value="Створення нових екземплярів вершин" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="202.34" y="371.56" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-2" target="J92iBG6pYE3TJsRAhOx6-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-2" value="Створення екземплярів ліній-шляхів" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1000" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-3" target="J92iBG6pYE3TJsRAhOx6-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-3" value="Створення екземплярів локацій" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="940" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-4" target="J92iBG6pYE3TJsRAhOx6-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-4" value="Заповнення словників" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="220" y="500" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-11" target="J92iBG6pYE3TJsRAhOx6-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-11" value="Перевірка утвореного графа на зв&#39;язність" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="218.82999999999998" y="780" width="162.34" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-13" target="J92iBG6pYE3TJsRAhOx6-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-13" value="Введення: к-сть вершин" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="560" width="120" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-14" target="J92iBG6pYE3TJsRAhOx6-1">
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="940" as="sourcePoint" />
+            <mxPoint x="282.4000000000001" y="711.56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yKXp7lzWDo-Mu3OkLmYp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-2" target="yKXp7lzWDo-Mu3OkLmYp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-2" value="Створення екземплярів ліній-шляхів" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="202.34" y="651.56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-3" target="J92iBG6pYE3TJsRAhOx6-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-3" value="Створення екземплярів локацій" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="202.34" y="591.56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-4" target="J92iBG6pYE3TJsRAhOx6-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-4" value="Заповнення словників" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="202.34" y="151.56" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-11" target="J92iBG6pYE3TJsRAhOx6-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-11" value="Перевірка утвореного графа на зв&#39;язність" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="201.17" y="431.56" width="162.34" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-13" target="J92iBG6pYE3TJsRAhOx6-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-13" value="Введення: к-сть вершин" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="222.34" y="211.56" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="J92iBG6pYE3TJsRAhOx6-14" target="J92iBG6pYE3TJsRAhOx6-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342.34" y="591.56" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="440" y="880" />
-              <mxPoint x="440" y="740" />
+              <mxPoint x="422.34" y="531.56" />
+              <mxPoint x="422.34" y="391.56" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-14" target="J92iBG6pYE3TJsRAhOx6-3">
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-14" target="J92iBG6pYE3TJsRAhOx6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-14" value="Перевірка пройдена?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230.00000000000006" y="840" width="140" height="80" as="geometry" />
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-14" value="Перевірка пройдена?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="212.34000000000006" y="491.56" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-15" target="J92iBG6pYE3TJsRAhOx6-1">
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-15" target="J92iBG6pYE3TJsRAhOx6-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-15" value="Видалення об&#39;єктів зі сцени" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="660" width="160" height="40" as="geometry" />
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-15" value="Видалення об&#39;єктів зі сцени" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="202.34" y="311.56" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-16" target="J92iBG6pYE3TJsRAhOx6-15">
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-16" target="J92iBG6pYE3TJsRAhOx6-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-16" value="Натискання&lt;br&gt;Start" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="610" width="120" height="30" as="geometry" />
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-16" value="Натискання&lt;br&gt;Start" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="222.34" y="261.56" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-17" target="J92iBG6pYE3TJsRAhOx6-4">
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="J92iBG6pYE3TJsRAhOx6-17" target="J92iBG6pYE3TJsRAhOx6-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-17" value="&amp;nbsp;Запуск програми" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="240" y="438.44" width="120" height="40" as="geometry" />
+        <mxCell id="J92iBG6pYE3TJsRAhOx6-17" value="&amp;nbsp;Запуск виконання" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="222.34" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J92iBG6pYE3TJsRAhOx6-30" target="J92iBG6pYE3TJsRAhOx6-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="1080" />
-              <mxPoint x="150" y="625" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J92iBG6pYE3TJsRAhOx6-30" value="Створення екземплярів ліній-шляхів" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="217.66" y="1060" width="164.68" height="40" as="geometry" />
+        <mxCell id="yKXp7lzWDo-Mu3OkLmYp-1" value="Кінець виконання" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="222.34" y="710" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -92,67 +89,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AG3ZQheefvWWrk1X1S5D-1" target="AG3ZQheefvWWrk1X1S5D-2">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AG3ZQheefvWWrk1X1S5D-1" target="AG3ZQheefvWWrk1X1S5D-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-1" value="Створення локацій" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-1" value="Створення локацій" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AG3ZQheefvWWrk1X1S5D-2" target="AG3ZQheefvWWrk1X1S5D-4">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AG3ZQheefvWWrk1X1S5D-2" target="AG3ZQheefvWWrk1X1S5D-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-2" value="З&#39;єднання локацій шляхами" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-2" value="З&#39;єднання локацій шляхами" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AG3ZQheefvWWrk1X1S5D-4" target="AG3ZQheefvWWrk1X1S5D-6">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AG3ZQheefvWWrk1X1S5D-4" target="AG3ZQheefvWWrk1X1S5D-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-4" value="Перевірка дотримання правил" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-4" value="Перевірка дотримання правил" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AG3ZQheefvWWrk1X1S5D-6" target="AG3ZQheefvWWrk1X1S5D-8">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AG3ZQheefvWWrk1X1S5D-6" target="AG3ZQheefvWWrk1X1S5D-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-6" value="Підрахунок значення для локації для визначення типу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-6" value="Підрахунок значення для локації для визначення типу" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AG3ZQheefvWWrk1X1S5D-8" target="AG3ZQheefvWWrk1X1S5D-10">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AG3ZQheefvWWrk1X1S5D-8" target="AG3ZQheefvWWrk1X1S5D-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-8" value="Звертання до таблиць для отримання інформації" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-8" value="Звертання до таблиць для отримання інформації" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AG3ZQheefvWWrk1X1S5D-10" target="E4lIv3VbyMZIcjUJRHsn-2">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AG3ZQheefvWWrk1X1S5D-10" target="E4lIv3VbyMZIcjUJRHsn-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AG3ZQheefvWWrk1X1S5D-10" value="Заповнення локацій отриманою інформацією" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AG3ZQheefvWWrk1X1S5D-10" value="Заповнення локацій отриманою інформацією" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E4lIv3VbyMZIcjUJRHsn-1" target="AG3ZQheefvWWrk1X1S5D-1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E4lIv3VbyMZIcjUJRHsn-1" target="AG3ZQheefvWWrk1X1S5D-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-1" value="Початок" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-1" value="Початок" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-2" value="Кінець" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-2" value="Кінець" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="280" y="920" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-5" value="Кожна локація (вершина) отримує:&lt;br&gt;значення свого положення&lt;br&gt;значення числового показника" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-5" value="Кожна локація (вершина) отримує:&lt;br&gt;значення свого положення&lt;br&gt;значення числового показника" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-6" value="Перевірка кількості шляхів, &lt;br&gt;що виходять з локації (к-сть сусідніх вершин n)&amp;nbsp;(n⩽3)&lt;br&gt;Цілісність карти (Зв&#39;язність графа)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-6" value="Перевірка кількості шляхів, &lt;br&gt;що виходять з локації (к-сть сусідніх вершин n)&amp;nbsp;(n⩽3)&lt;br&gt;Цілісність карти (Зв&#39;язність графа)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-7" value="Визначення до яких локацій можна потрапити з однієї обраної&lt;br&gt;(Визначення сусідніх вершин)&lt;br&gt;Відображення можливості переходу між локаціями&lt;br&gt;(Ребер графа)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-7" value="Визначення до яких локацій можна потрапити з однієї обраної&lt;br&gt;(Визначення сусідніх вершин)&lt;br&gt;Відображення можливості переходу між локаціями&lt;br&gt;(Ребер графа)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="520" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-10" value="Визначення суми числових значень сусідніх локацій" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-10" value="Визначення суми числових значень сусідніх локацій" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="680" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Отримання назви локації та опису, що обирається &lt;br&gt;порівнянням раніше отриманого значення з можливими&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Отримання назви локації та опису, що обирається &lt;br&gt;порівнянням раніше отриманого значення з можливими&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="760" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E4lIv3VbyMZIcjUJRHsn-12" value="Збереження та вивід отриманої на попередньому етапі інформації&lt;br&gt;для кожної локації" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="E4lIv3VbyMZIcjUJRHsn-12" value="Збереження та вивід отриманої на попередньому етапі інформації&lt;br&gt;для кожної локації" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="840" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
